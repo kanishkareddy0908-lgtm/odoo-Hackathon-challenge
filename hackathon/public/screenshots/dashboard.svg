@@ -1,0 +1,19 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="720" fill="#F8FAFC"/>
+<rect x="40" y="40" width="1120" height="640" rx="32" fill="white" stroke="#E2E8F0"/>
+<rect x="40" y="40" width="1120" height="96" rx="32" fill="#4F46E5"/>
+<text x="86" y="100" font-family="Arial" font-size="34" font-weight="700" fill="white">VendorBridge · Dashboard</text>
+<text x="86" y="174" font-family="Arial" font-size="24" font-weight="700" fill="#0F172A">Analytics cards, quick actions, recent RFQs</text>
+<rect x="86" y="220" width="250" height="130" rx="20" fill="#EEF2FF"/>
+<rect x="370" y="220" width="250" height="130" rx="20" fill="#ECFDF5"/>
+<rect x="654" y="220" width="250" height="130" rx="20" fill="#FFF7ED"/>
+<rect x="86" y="390" width="1018" height="56" rx="14" fill="#F1F5F9"/>
+<rect x="86" y="466" width="1018" height="56" rx="14" fill="#F1F5F9"/>
+<rect x="86" y="542" width="1018" height="56" rx="14" fill="#F1F5F9"/>
+<text x="114" y="292" font-family="Arial" font-size="44" font-weight="700" fill="#4F46E5">ERP</text>
+<text x="398" y="292" font-family="Arial" font-size="44" font-weight="700" fill="#059669">RFQ</text>
+<text x="682" y="292" font-family="Arial" font-size="44" font-weight="700" fill="#D97706">PO</text>
+<text x="112" y="425" font-family="Arial" font-size="18" fill="#64748B">Screenshot placeholder included for README/demo documentation.</text>
+<text x="112" y="501" font-family="Arial" font-size="18" fill="#64748B">Run locally or deploy on Vercel and replace with real captured screens.</text>
+<text x="112" y="577" font-family="Arial" font-size="18" fill="#64748B">Workflow: vendor → RFQ → quotation → approval → PO → invoice.</text>
+</svg>
